@@ -22,6 +22,11 @@ Soon:
 13: <a href="https://magdry.github.io/JavaScript30/">Slide in on Scroll</a></br>
 14: <a href="https://magdry.github.io/JavaScript30/">JavaScript References VS Copying</a></br>
 15: <a href="https://magdry.github.io/JavaScript30/">LocalStorage</a></br>
+16: <a href="https://magdry.github.io/JavaScript30/">Mouse Move Shadow</a></br>
+17: <a href="https://magdry.github.io/JavaScript30/">Sort Without Articles</a></br>
+18: <a href="https://magdry.github.io/JavaScript30/">Adding Up Times with Reduce</a></br>
+19: <a href="https://magdry.github.io/JavaScript30/">Webcam Fun</a></br>
+20: <a href="https://magdry.github.io/JavaScript30/">Speech Detection</a></br>
 
 
 <img src="http://magdry.pl/images/js30.jpg"/>
