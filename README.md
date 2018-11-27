@@ -10,11 +10,11 @@ COMPLETE </br>
 5: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/05%20-%20Flex%20Panel%20Gallery/index-myWork.html">Flex Panel Gallery</a></br>
 6: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/06%20-%20Type%20Ahead/index-myWork.html">Type Ahead</a></br>
 7: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/07%20-%20Array%20Cardio%20Day%202/indexMyWork.html">Array Cardio Day 2</a></br>
+8: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/08%20-%20Fun%20with%20HTML5%20Canvas/indexMyWork.html">Fun with HTML5 Canvas</a></br>
 _____________________
 
 Soon:
 
-8: <a href="https://magdry.github.io/JavaScript30/">Fun with HTML5 Canvas</a></br>
 9: <a href="https://magdry.github.io/JavaScript30/">Dev Tools Domination</a></br>
 10: <a href="https://magdry.github.io/JavaScript30/">Hold Shift and Check Checkboxes</a></br>
 11: <a href="https://magdry.github.io/JavaScript30/">Custom Video Player</a></br>
@@ -22,6 +22,11 @@ Soon:
 13: <a href="https://magdry.github.io/JavaScript30/">Slide in on Scroll</a></br>
 14: <a href="https://magdry.github.io/JavaScript30/">JavaScript References VS Copying</a></br>
 15: <a href="https://magdry.github.io/JavaScript30/">LocalStorage</a></br>
+16: <a href="https://magdry.github.io/JavaScript30/">Mouse Move Shadow</a></br>
+17: <a href="https://magdry.github.io/JavaScript30/">Sort Without Articles</a></br>
+18: <a href="https://magdry.github.io/JavaScript30/">Adding Up Times with Reduce</a></br>
+19: <a href="https://magdry.github.io/JavaScript30/">Webcam Fun</a></br>
+20: <a href="https://magdry.github.io/JavaScript30/">Speech Detection</a></br>
 
 
 <img src="http://magdry.pl/images/js30.jpg"/>
