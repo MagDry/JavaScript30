@@ -27,6 +27,11 @@ Soon:
 18: <a href="https://magdry.github.io/JavaScript30/">Adding Up Times with Reduce</a></br>
 19: <a href="https://magdry.github.io/JavaScript30/">Webcam Fun</a></br>
 20: <a href="https://magdry.github.io/JavaScript30/">Speech Detection</a></br>
+21: <a href="https://magdry.github.io/JavaScript30/">Geolocation</a></br>
+22: <a href="https://magdry.github.io/JavaScript30/">Follow Along Link Highlighter</a></br>
+23: <a href="https://magdry.github.io/JavaScript30/">Speech Synthesis</a></br>
+24: <a href="https://magdry.github.io/JavaScript30/">Sticky Nav</a></br>
+25: <a href="https://magdry.github.io/JavaScript30/">Event Capture, Propagation, Bubbling and Once</a></br>
 
 
 <img src="http://magdry.pl/images/js30.jpg"/>
