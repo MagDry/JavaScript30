@@ -33,6 +33,7 @@ Soon:
 23: <a href="https://magdry.github.io/JavaScript30/">Speech Synthesis</a></br>
 24: <a href="https://magdry.github.io/JavaScript30/">Sticky Nav</a></br>
 25: <a href="https://magdry.github.io/JavaScript30/">Event Capture, Propagation, Bubbling and Once</a></br>
+26: <a href="https://magdry.github.io/JavaScript30/">Stripe Follow Along Nav</a></br>
 
 <img src="http://magdry.pl/images/js30.jpg"/>
 
