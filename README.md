@@ -34,6 +34,7 @@ Soon:
 24: <a href="https://magdry.github.io/JavaScript30/">Sticky Nav</a></br>
 25: <a href="https://magdry.github.io/JavaScript30/">Event Capture, Propagation, Bubbling and Once</a></br>
 26: <a href="https://magdry.github.io/JavaScript30/">Stripe Follow Along Nav</a></br>
+27: <a href="https://magdry.github.io/JavaScript30/">Click and Drag</a></br>
 
 <img src="http://magdry.pl/images/js30.jpg"/>
 
