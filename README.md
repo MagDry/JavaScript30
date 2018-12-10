@@ -13,12 +13,12 @@ COMPLETE </br>
 8: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/08%20-%20Fun%20with%20HTML5%20Canvas/indexMyWork.html">Fun with HTML5 Canvas</a></br>
 9: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/09%20-%20Dev%20Tools%20Domination/index-myWork.html">Dev Tools Domination</a></br>
 10: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index-myWork.html">Hold Shift and Check Checkboxes</a></br>
+11: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/11%20-%20Custom%20Video%20Player/index.html">Custom Video Player</a></br>
 
 _____________________
 
 Soon:
 
-11: <a href="https://magdry.github.io/JavaScript30/">Custom Video Player</a></br>
 12: <a href="https://magdry.github.io/JavaScript30/">Key Sequence Detection</a></br>
 13: <a href="https://magdry.github.io/JavaScript30/">Slide in on Scroll</a></br>
 14: <a href="https://magdry.github.io/JavaScript30/">JavaScript References VS Copying</a></br>
