@@ -15,12 +15,12 @@ COMPLETE </br>
 10: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index-myWork.html">Hold Shift and Check Checkboxes</a></br>
 11: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/11%20-%20Custom%20Video%20Player/index.html">Custom Video Player</a></br>
 12: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/12%20-%20Key%20Sequence%20Detection/index-myWork.html">Key Sequence Detection</a></br>
+13: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/13%20-%20Slide%20in%20on%20Scroll/index-myWork.html">Slide in on Scroll</a></br>
 
 _____________________
 
 Soon:
 
-13: <a href="https://magdry.github.io/JavaScript30/">Slide in on Scroll</a></br>
 14: <a href="https://magdry.github.io/JavaScript30/">JavaScript References VS Copying</a></br>
 15: <a href="https://magdry.github.io/JavaScript30/">LocalStorage</a></br>
 16: <a href="https://magdry.github.io/JavaScript30/">Mouse Move Shadow</a></br>
