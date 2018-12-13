@@ -3,7 +3,7 @@
 <a href="https://javascript30.com">30 Day Vanilla JS Coding Challenge</a></br>
 
 COMPLETE </br>
-1: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/01%20-%20JavaScript%20Drum%20Kit/index-myWork.html">JavaScript Drum Kit</a></br>
+1: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/01%20-%20JavaScript%20Drum%20Kit/index-myWork.html">JavaScript Drum Kit</a>	&#128293;</br>
 2: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/02%20-%20JS%20and%20CSS%20Clock/index-MyWork.html">JS and CSS Clock</a></br>
 3: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/03%20-%20CSS%20Variables/index-MyWork.html">CSS Variables</a></br>
 4: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/04%20-%20Array%20Cardio%20Day%201/index-MyWork.html">Array Cardio Day 1</a></br>
@@ -16,7 +16,7 @@ COMPLETE </br>
 11: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/11%20-%20Custom%20Video%20Player/index.html">Custom Video Player</a></br>
 12: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/12%20-%20Key%20Sequence%20Detection/index-myWork.html">Key Sequence Detection</a></br>
 13: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/13%20-%20Slide%20in%20on%20Scroll/index-myWork.html">Slide in on Scroll</a></br>
-14: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/14%20-%20JavaScript%20References%20VS%20Copying">JavaScript References VS Copying</a></br>
+14: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/14%20-%20JavaScript%20References%20VS%20Copying/index-myWork.html">JavaScript References VS Copying</a></br>
 
 _____________________
 
