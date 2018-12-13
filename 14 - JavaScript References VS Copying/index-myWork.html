@@ -25,9 +25,8 @@
     const players = ['Wes', 'Sarah', 'Ryan', 'Poppy'];
 
     // and we want to make a copy of it.
-
     const team = players;
-    console.log(players, team);
+    // console.log(players, team);
 
     team[3] = 'Lux'; //reference, not original, so 'Lux' in 'team' and 'players'
     // console.log(players, team);
@@ -43,32 +42,80 @@
     // Why? It's because that is an array reference, not an array copy. They both point to the same array!
 
     // So, how do we fix this? We take a copy instead!
-
     const team2 = players.slice();
-    const team3 = [].concat(players); //the same way
-
-    //04:31 
-
+    // const team3 = [].concat(players); //the same way
 
     // one way
 
     // or create a new array and concat the old one in
+    const team3 = [].concat(players); 
 
     // or use the new ES6 Spread
+    const team4 = [...players];
+    team4[3] = 'heee hawww';
+    console.log(team4);
+
+    const team5 = Array.from(players);
+
 
     // now when we update it, the original one isn't changed
 
     // The same thing goes for objects, let's say we have a person object
 
     // with Objects
+    const person = {
+      name: 'Wes Bos',
+      age: 80
+    };
 
     // and think we make a copy:
+    // const captain = person;
+    // captain.number = 99;
+
+    // console.log(person);
 
     // how do we take a copy instead?
+    const cap2 = Object.assign({}, person,  { number: 99, age: 12 });
+    console.log(cap2);
 
     // We will hopefully soon see the object ...spread
+    const cap3 = {...person};
 
     // Things to note - this is only 1 level deep - both for Arrays and Objects. lodash has a cloneDeep method, but you should think twice before using it.
+    const wes = {
+      name: 'Wes',
+      age: 100,
+      social: {
+        twitter: '@wesbos',
+        facebook: 'wesbos.developer'
+      }
+    };
+
+    console.clear();
+    console.log(wes);
+
+    const dev = Object.assign({}, wes);
+    console.log(dev.name);
+    console.log(wes);
+
+    dev.name = "Wesley";
+    console.log(dev);
+
+    // dev.social.twitter = '@coolman';
+    // console.log(dev.social);
+
+    console.log(wes.social);
+    //bez zmiany, ponieważ "assign" dotyczy tylko "głównych danych" w obiekcie, bez "podzespołów" /tutaj 'social'
+
+    const dev2 = JSON.parse(JSON.stringify(wes));
+    console.log(dev2);
+
+    dev2.social.twitter = '@coolman2';
+    console.log(wes.social);
+
+    console.log(JSON.stringify(wes)); //not object
+    console.log(JSON.parse(JSON.stringify(wes))); //object
+    
 
   </script>
 
