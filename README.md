@@ -3,20 +3,20 @@
 <a href="https://javascript30.com">30 Day Vanilla JS Coding Challenge</a></br>
 
 COMPLETE </br>
-1: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/01%20-%20JavaScript%20Drum%20Kit/index-myWork.html">JavaScript Drum Kit</a>	&#10003;</br>
-2: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/02%20-%20JS%20and%20CSS%20Clock/index-MyWork.html">JS and CSS Clock</a>	&#128293;</br>
-3: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/03%20-%20CSS%20Variables/index-MyWork.html">CSS Variables</a></br>
-4: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/04%20-%20Array%20Cardio%20Day%201/index-MyWork.html">Array Cardio Day 1</a>	&#128293;</br>
-5: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/05%20-%20Flex%20Panel%20Gallery/index-myWork.html">Flex Panel Gallery</a></br>
-6: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/06%20-%20Type%20Ahead/index-myWork.html">Type Ahead</a>	&#128293;</br>
-7: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/07%20-%20Array%20Cardio%20Day%202/indexMyWork.html">Array Cardio Day 2</a>	&#128293;</br>
-8: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/08%20-%20Fun%20with%20HTML5%20Canvas/indexMyWork.html">Fun with HTML5 Canvas</a>	&#128293;</br>
-9: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/09%20-%20Dev%20Tools%20Domination/index-myWork.html">Dev Tools Domination</a>	&#128293;</br>
-10: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index-myWork.html">Hold Shift and Check Checkboxes</a>	&#128293;</br>
-11: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/11%20-%20Custom%20Video%20Player/index.html">Custom Video Player</a>	&#128293;</br>
-12: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/12%20-%20Key%20Sequence%20Detection/index-myWork.html">Key Sequence Detection</a>	&#128293;</br>
-13: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/13%20-%20Slide%20in%20on%20Scroll/index-myWork.html">Slide in on Scroll</a>	&#128293;</br>
-14: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/14%20-%20JavaScript%20References%20VS%20Copying/index-myWork.html">JavaScript References VS Copying</a>	&#128293;</br>
+&#128293;1: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/01%20-%20JavaScript%20Drum%20Kit/index-myWork.html">JavaScript Drum Kit</a></br>
+&#128293;2: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/02%20-%20JS%20and%20CSS%20Clock/index-MyWork.html">JS and CSS Clock</a></br>
+&#128293;3: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/03%20-%20CSS%20Variables/index-MyWork.html">CSS Variables</a></br>
+&#128293;4: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/04%20-%20Array%20Cardio%20Day%201/index-MyWork.html">Array Cardio Day 1</a></br>
+&#128293;5: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/05%20-%20Flex%20Panel%20Gallery/index-myWork.html">Flex Panel Gallery</a></br>
+&#128293;6: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/06%20-%20Type%20Ahead/index-myWork.html">Type Ahead</a></br>
+&#128293;7: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/07%20-%20Array%20Cardio%20Day%202/indexMyWork.html">Array Cardio Day 2</a></br>
+&#128293;8: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/08%20-%20Fun%20with%20HTML5%20Canvas/indexMyWork.html">Fun with HTML5 Canvas</a></br>
+&#128293;9: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/09%20-%20Dev%20Tools%20Domination/index-myWork.html">Dev Tools Domination</a></br>
+&#128293;10: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index-myWork.html">Hold Shift and Check Checkboxes</a></br>
+&#128293;11: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/11%20-%20Custom%20Video%20Player/index.html">Custom Video Player</a></br>
+&#128293;12: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/12%20-%20Key%20Sequence%20Detection/index-myWork.html">Key Sequence Detection</a></br>
+&#128293;13: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/13%20-%20Slide%20in%20on%20Scroll/index-myWork.html">Slide in on Scroll</a></br>
+&#128293;14: <a href="https://magdry.github.io/JavaScript30/00%20-%20COMPLETE/14%20-%20JavaScript%20References%20VS%20Copying/index-myWork.html">JavaScript References VS Copying</a></br>
 
 _____________________
 
