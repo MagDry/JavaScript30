@@ -36,6 +36,7 @@ Soon:
 26: <a href="https://magdry.github.io/JavaScript30/">Stripe Follow Along Nav</a></br>
 27: <a href="https://magdry.github.io/JavaScript30/">Click and Drag</a></br>
 28: <a href="https://magdry.github.io/JavaScript30/">Video Speed Controller</a></br>
+29: <a href="https://magdry.github.io/JavaScript30/">Countdown Timer</a></br>
 
 <img src="http://magdry.pl/images/js30.jpg"/>
 
